@@ -68,3 +68,8 @@
 0:0:0:0:0:0:0:1 - - [18/Jul/2020:20:12:00 +0530] "GET /demoapp2/servlet/com.shivam.newServlet HTTP/1.1" 404 797
 127.0.0.1 - - [18/Jul/2020:20:12:21 +0530] "GET / HTTP/1.1" 404 751
 0:0:0:0:0:0:0:1 - - [18/Jul/2020:20:12:21 +0530] "GET /demoapp2/servlet/com.shivam.newServlet HTTP/1.1" 404 797
+127.0.0.1 - - [18/Jul/2020:20:17:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Jul/2020:20:17:26 +0530] "GET /demoapp2/index.html HTTP/1.1" 200 231
+0:0:0:0:0:0:0:1 - - [18/Jul/2020:20:17:32 +0530] "GET /home?doit=Submit HTTP/1.1" 404 755
+0:0:0:0:0:0:0:1 - - [18/Jul/2020:20:18:11 +0530] "GET /demoapp2/index.html HTTP/1.1" 200 230
+0:0:0:0:0:0:0:1 - - [18/Jul/2020:20:18:14 +0530] "GET /demoapp2/home?doit=Submit HTTP/1.1" 200 31
